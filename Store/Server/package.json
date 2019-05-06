@@ -1,0 +1,24 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "\"Node.js RESTful API for Shop\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Md Ashik Ashrafe",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.20",
+    "morgan": "^1.9.1"
+  }
+}
